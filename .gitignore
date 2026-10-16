@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+sales.db
+.pytest_cache/
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
